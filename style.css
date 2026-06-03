@@ -1,6 +1,21 @@
 body{
     text-align: center;
 }
+header{
+    padding: 20px;
+    background-color: red;
+    margin-bottom: 20px;
+    color: white;
+    font-size: 20px;
+
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+li{
+    margin-bottom: 10px;
+}
 h1{
     text-align: center;
     color: red;
